@@ -1,0 +1,15 @@
+http://www.clubedospoupadores.com/investimentos/acessar-extrato-cetip.html
+
+public static partial class Dicionario
+private static Dictionary<string, string> dicGlobal;
+private static Dictionary<string, string> ObterDicionarioGlobal()
+private static Dictionary<string, string> ObterDicionarioProcesso()
+
+public static Dictionary<string, string> Global
+public static Dictionary<string, string> Processo
+public static Dictionary<string, string> Login
+
+
+public static partial class ErrosChaves
+public static partial class TitulosChaves
+public static partial class InfoChaves
